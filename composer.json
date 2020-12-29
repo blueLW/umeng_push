@@ -1,0 +1,21 @@
+{
+    "name": "summer-night-wind/umeng-push",
+    "description": "友盟推送-基础推送",
+    "type": "library",
+    "require": {
+        "php": ">=7.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liuwang",
+            "email": "616458279@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+        },
+        "files": [
+        ]
+    }
+}
